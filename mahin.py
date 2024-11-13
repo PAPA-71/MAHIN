@@ -1,5 +1,4 @@
 import os
 os.system("git pull")
-./MAHIN
-chmod +x MAHIN
-./MAHIN
+os.system("chmod +x MAHIN")
+os.system("./MAHIN")
